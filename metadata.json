@@ -1,0 +1,6 @@
+{
+  "name": "Bappa Capture",
+  "description": "A luxury black and white photography portfolio showcasing cinematic portraits, fashion, street, wildlife, and nature photography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
