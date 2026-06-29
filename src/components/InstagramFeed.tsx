@@ -57,17 +57,17 @@ export default function InstagramFeed() {
           <div className="flex items-center gap-3">
             <Instagram className="w-5 h-5 text-neutral-400" />
             <h3 className="font-sans font-bold text-xs tracking-[0.3em] uppercase text-neutral-300">
-              INSTAGRAM / @BAPPA_CAPTURE
+              INSTAGRAM / @kingslier3
             </h3>
           </div>
           <a
             id="follow-instagram-feed-btn"
-            href="https://instagram.com"
+            href="https://www.instagram.com/kingslier3?igsh=bXIxNnEyd2kwdDNp"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[10px] font-mono tracking-widest uppercase text-neutral-400 hover:text-white transition-colors flex items-center gap-1.5"
           >
-            Follow Studio feed <span className="text-xs">→</span>
+            Follow {`Kairo Gaming's`} feed <span className="text-xs">→</span>
           </a>
         </div>
 
@@ -77,14 +77,14 @@ export default function InstagramFeed() {
             <a
               key={post.id}
               id={`instagram-post-card-${post.id}`}
-              href="https://instagram.com"
+              href="https://www.instagram.com/kingslier3?igsh=bXIxNnEyd2kwdDNp"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative aspect-square block bg-neutral-900 overflow-hidden border border-neutral-900 rounded-2xs"
             >
               <img
                 src={post.image}
-                alt={`Bappa Capture Instagram post ${post.tag}`}
+                alt={`Kairo Gaming Instagram post ${post.tag}`}
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover grayscale contrast-115 saturate-0 group-hover:scale-102 transition-transform duration-500"
               />

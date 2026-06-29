@@ -7,7 +7,7 @@ export const galleryItems: GalleryItem[] = [
     category: 'Portrait',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1200',
     description: 'An intimate study of emotion and depth in portraiture, capturing subtle shadow gradients across the face.',
-    location: 'Studio, New York',
+    location: 'Studio, Chinsurah',
     date: '2026-03-12',
     aperture: 'f/1.4',
     shutterSpeed: '1/250s',

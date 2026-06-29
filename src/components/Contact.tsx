@@ -274,19 +274,19 @@ export default function Contact({ initialCategory, initialMessage, onClearPreset
               <div className="flex flex-col gap-4 text-xs font-sans text-neutral-400">
                 <div className="flex items-start gap-3">
                   <MapPin className="w-4 h-4 text-neutral-500 shrink-0 mt-0.5" />
-                  <span>742 Fifth Avenue, 12th Floor, Midtown Manhattan, New York, NY 10019</span>
+                  <span>Chinsurah H.O, Hooghly, West Bengal 712101, India</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <Phone className="w-4 h-4 text-neutral-500 shrink-0 mt-0.5" />
-                  <span>+1 (212) 555-8933</span>
+                  <span>+91 62906 36196</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <Mail className="w-4 h-4 text-neutral-500 shrink-0 mt-0.5" />
-                  <span>bookings@bappacapture.com</span>
+                  <span>bbappa383@gmail.com</span>
                 </div>
                 <div className="flex items-start gap-3">
                   <Clock className="w-4 h-4 text-neutral-500 shrink-0 mt-0.5" />
-                  <span>Concept Consultations: Mon - Sat, 10:00 AM - 6:00 PM EST</span>
+                  <span>Concept Consultations: Mon - Sat, 10:00 AM - 6:00 PM IST</span>
                 </div>
               </div>
             </div>
@@ -295,12 +295,12 @@ export default function Contact({ initialCategory, initialMessage, onClearPreset
             <div className="w-full h-72 border border-neutral-900 rounded-sm overflow-hidden relative group">
               <iframe
                 id="contact-google-map-iframe"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.142293795014!2d-73.97484432426462!3d40.760114971385495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1m3!1d3022.142293795014!2d-73.97484432426462!3d40.760114971385495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+                src="https://maps.google.com/maps?q=Chinsurah%20H.O,%20Hooghly,%20West%20Bengal%20712101,%20India&t=&z=14&ie=UTF8&iwloc=&output=embed"
                 className="w-full h-full border-0 grayscale invert opacity-70 hover:opacity-100 transition-opacity duration-500"
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Bappa Capture Studio Midtown Manhattan Location Map"
+                title="Bappa Capture Studio Chinsurah Location Map"
               ></iframe>
             </div>
           </div>
@@ -310,7 +310,7 @@ export default function Contact({ initialCategory, initialMessage, onClearPreset
       {/* Floating Direct WhatsApp Quick Chat Widget (Auto-triggered) */}
       <a
         id="whatsapp-chat-float-btn"
-        href="https://wa.me/12125558933?text=Hello%20Bappa%20Capture!%20I'd%20like%20to%20inquire%20about%20booking%20a%20monochrome%20photography%20session."
+        href="https://wa.me/916290636196?text=Hello%20Bappa%20Capture!%20I'd%20like%20to%20inquire%20about%20booking%20a%20monochrome%20photography%20session."
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Direct WhatsApp quick chat with Bappa"

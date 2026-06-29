@@ -17,7 +17,7 @@ export default function Footer() {
   };
 
   const socialLinks = [
-    { name: 'Instagram', icon: <Instagram className="w-4 h-4" />, href: 'https://instagram.com' },
+    { name: 'Instagram', icon: <Instagram className="w-4 h-4" />, href: 'https://www.instagram.com/kingslier3?igsh=bXIxNnEyd2kwdDNp' },
     { name: 'Pinterest', icon: <Pin className="w-4 h-4" />, href: 'https://pinterest.com' },
     { name: 'YouTube', icon: <Youtube className="w-4 h-4" />, href: 'https://youtube.com' },
     { name: '500px', icon: <Globe className="w-4 h-4" />, href: 'https://500px.com' },
